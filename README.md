@@ -1,7 +1,7 @@
 docker-css3FontConverter
 ========================
 
-css3FontConverter docker container
+css3FontConverter (https://github.com/zoltan-dulac/css3FontConverter) enables you to convert TTF/OTF fonts to EOT, SVG, WOFF and in the same time generates CSS stylesheet with CSS3 @font-face ready for use.
 
 To start using css3FontConverter you can either download the image or build it by yourself. Both options have their advantages.
 
